@@ -1,4 +1,7 @@
 import anthropic
+from dotenv import load_dotenv
+
+load_dotenv()  # reads .env and loads the key into the environment
 
 # PART 1 - the document, read once at startup
 with open("usdy.md") as f:
