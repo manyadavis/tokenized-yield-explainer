@@ -1,3 +1,5 @@
+**Live demo:** https://huggingface.co/spaces/manyadavis/tokenized-yield-explainer
+
 # Tokenized Yield Explainer
  
 A retrieval-augmented generation (RAG) question-answering assistant that answers questions about tokenized real-world assets using only a fixed set of source documents, and cites the source behind every claim.
